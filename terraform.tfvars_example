@@ -1,0 +1,9 @@
+
+
+###########################
+# RANCHER VARIABLES
+###########################
+rancher_url           = "https://rancher26.test.rancher.one"
+rancher_api_key       = "token-yyyy:xxxxxxxxxx"
+
+

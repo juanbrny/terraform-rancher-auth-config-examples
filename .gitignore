@@ -1,0 +1,5 @@
+terraform.tfstate.backup
+terraform.tfstate
+modules/.DS_Store
+modules/oidc/.DS_Store
+terraform.tfvars
